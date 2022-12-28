@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299503151860",
+    "project_id": "gaswater-b1edc",
+    "storage_bucket": "gaswater-b1edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299503151860:android:c54fb6215f8cbcaaa0cca1",
+        "android_client_info": {
+          "package_name": "com.example.gazapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299503151860-hspnee7oc2pnmja5gegp4bkvsdg2bj1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGz-fcauy3xohPPK9KCDYnqVK0W2fj1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299503151860-hspnee7oc2pnmja5gegp4bkvsdg2bj1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
